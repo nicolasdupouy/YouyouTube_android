@@ -1,6 +1,20 @@
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
+# Frameworks :
+# ------------
+# - [Android] temp directories
+bin/
+gen/
+#libs/
+*.zip
+
+# IDE :
+# -----
+# - [Eclipse]
+.settings/
+.metadata/
+
+# Generic files to ignore :
+# -------------------------
+# - Apple temp
 .DS_Store
-/build
+
+
